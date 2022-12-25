@@ -44,4 +44,4 @@
 
 "img":"https://www.sabinchaudhary.com.np/LiveTv/news24.jpg"
 
-}
+}]
