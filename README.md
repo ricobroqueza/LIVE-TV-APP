@@ -1,16 +1,8 @@
 [ {
 "title":"Super Radyo DZBB",
  "url":"http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid\u003d693701106",
-"img":"https://tinypic.host/images/2022/11/14/PhilTech_Logo.png"
+"img":"https://tinypic.host/images/2022/12/26/Super_Radyo_DZBB_Ito_ang_Balita_Logo_282002-200729.png"
  
-}
-,
- 
-{
-"title":"DepEd TV",
- "url":"https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8",
-"img":"https://www.sabinchaudhary.com.np/LiveTv/indiatv.png"
-
 }
 ,
  
