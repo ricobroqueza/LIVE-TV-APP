@@ -1,4 +1,5 @@
-[{
+[
+{
 "title":"मनोरंजन_Big Magic",
 "url":"http://pockettv.xyz/api/zee.m3u8?c=bigmagic",
 "img":"https://upload.wikimedia.org/wikipedia/en/b/bb/DDBiharLogo.jpg"
@@ -83,140 +84,140 @@
 ,
  
 {
-"title":"न्यूज़_1st इंडिया",
+"title":"1st इंडिया",
 "url":"https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8",
 "img":"https://smedia2.intoday.in/aajtak/at_2.09032019/resources/theme_v2/common/images/homeLogo.png" 
 }
 ,
  
 {
-"title":"न्यूज़_आज तक",
+"title":"आज तक",
 "url":"https://vidcdn.vidgyor.com/at-origin/liveabr/playlist.m3u8",
 "img":"https://smedia2.intoday.in/aajtak/at_2.09032019/resources/theme_v2/common/images/tezlogo.png" 
 }
 ,
  
 {
-"title":"न्यूज़_तेज",
+"title":"तेज",
 "url":"https://vidcdn.vidgyor.com/tez-origin/liveabr/tez-origin/live1/chunks.m3u8",
 "img":"https://livetvmania.net/wp-content/uploads/2018/04/dilli-aajtak.png"
 }
 ,
  
 {
-"title":"न्यूज़_ABP न्यूज़",
+"title":"ABP न्यूज़",
 "url":"https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/playlist.m3u8",
 "img":"https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" 
 }
 ,
  
 {
-"title":"न्यूज़_दिल्ली न्यूज़",
+"title":"दिल्ली न्यूज़",
 "url":"https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8",
 "img":"https://upload.wikimedia.org/wikipedia/en/a/a7/CNBC_Awaaz_2010.png" 
 }
 ,
  
 {
-"title":"न्यूज़_CNBC आवाज़",
+"title":"CNBC आवाज़",
  "url":"https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8",
 "img":"http://ddnews.gov.in/sites/all/themes/cmf/logo.png" 
 }
 ,
  
 {
-"title":"न्यूज़_DD News",
+"title":"DD News",
 "url":"http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8",
 "img":"https://static.indiatvnews.com/ins-web/images/sitelogo.png" 
 }
 ,
  
 {
-"title":"न्यूज़_ इंडिया टीवी",
+"title":" इंडिया टीवी",
 "url":"https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8",
 "img":"https://www.khabrainabhitak.org/wp-content/uploads/2018/04/logo-website.jpg" 
 }
 ,
  
 {
-"title":"न्यूज़_ Khabrain Abhi Tak",
+"title":" Khabrain Abhi Tak",
 "url":"https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8",
 "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/News24_Logo.jpg/150px-News24_Logo.jpg" 
 }
 ,
  
 {
-"title":"न्यूज़_News 24",
+"title":"News 24",
 "url":"https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8",
 "img":"https://static.newsnation.in/images/newsnation-logo.png" 
 }
 ,
  
 {
-"title":"न्यूज़_ News Nation",
+"title":" News Nation",
  "url":"https://hls.newsnation.in/NN_http_LIVE/ngrp:mystream_all/chunklist.m3u8",
 "img":"https://static.newsstate.com/static/images/logo.jpg" 
 }
 ,
  
 {
-"title":"न्यूज़_News State",
+"title":"News State",
 "url":"https://hls2.newsstate.com/NS1_http_LIVE/ngrp:myStream_all/chunklist.m3u8",
 "img":"https://static.newsstate.com/static/images/logo.jpg" 
 }
 ,
  
 {
-"title":"न्यूज़_News State Madhya Pradesh",
+"title":"News State Madhya Pradesh",
 "url":"https://hls3.newsnation.in/NS2_http_LIVE/ngrp:mystream3_all/chunklist.m3u8",
 "img":"https://js.newsx.com/wp-content/themes/newsxlite/images/india-news-logo.png" 
 }
 ,
  
 {
-"title":"न्यूज़_India News",
+"title":"India News",
 "url":"https://streamer.multitvsolution.in/IndiaNews-e/playlist.m3u8",
 "img":"https://images.newsx.com/wp-content/uploads/2019/09/haryana-2-682254-snZyIdTW.png" 
 }
 ,
  
 {
-"title":"न्यूज़_India News Haryana",
+"title":"India News Haryana",
 "url":"https://streamer.multitvsolution.in/IndiaNews-e/playlist.m3u8",
 "img":"https://js.newsx.com/wp-content/themes/newsxlite/images/india-news-logo.png" 
 }
 ,
  
 {
-"title":"न्यूज़_India News MPC",
+"title":"India News MPC",
 "url":"https://streamer.multitvsolution.in/IndiaNewsMP-a/playlist.m3u8",
 "img":"https://images.newsx.com/wp-content/uploads/2019/09/rajasthan-5-971543-Ci2gotlM.png" 
 }
 ,
  
 {
-"title":"न्यूज़_India News Rajasthan",
+"title":"India News Rajasthan",
 "url":"https://streamer.multitvsolution.in/IndiaNewsRajasthan-a/playlist.m3u8",
 "img":"https://images.newsx.com/wp-content/uploads/2019/09/up-uk-6-104289-RhlOsVLc.png" 
 }
 ,
  
 {
-"title":"न्यूज़_India News UP",
+"title":"India News UP",
 "url":"https://streamer.multitvsolution.in/IndiaNewsUP-g/playlist.m3u8",
 "img":"https://static.iptv-epg.com/in/ZeeNews.in.png" 
 }
 ,
  
 {
-"title":"न्यूज़_Zee News",
+"title":"Zee News",
 "url":"http://pockettv.xyz/api/zee.m3u8?c=zeenews",
 "img":"http://www.sustainabilitystandards.in/wp-content/uploads/2017/11/Zee-Business-CS6-1110x550.png" 
 }
 ,
  
 {
-"title":"न्यूज़_Zee Business",
+"title":"Zee Business",
 "url":"http://pockettv.xyz/api/zee.m3u8?c=zeebusiness",
 "img":"https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" 
 }
@@ -401,4 +402,5 @@
 "title":"सीखना_Lok Sabha",
 "url":"https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8",
 "img":"http://webcast.gov.in/images/rajyasabhatv.png"
-}]
+}
+]
