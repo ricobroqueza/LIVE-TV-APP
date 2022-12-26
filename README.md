@@ -154,21 +154,21 @@
  
 {
 "title":"न्यूज़_ News Nation",
- "url":"https://hls.newsnation.in/NN_HTTP_LIVE/ngrp:mystream_all/chunklist.m3u8",
+ "url":"https://hls.newsnation.in/NN_http_LIVE/ngrp:mystream_all/chunklist.m3u8",
 "img":"https://static.newsstate.com/static/images/logo.jpg" 
 }
 ,
  
 {
 "title":"न्यूज़_News State",
-"url":"https://hls2.newsstate.com/NS1_HTTP_LIVE/ngrp:myStream_all/chunklist.m3u8",
+"url":"https://hls2.newsstate.com/NS1_http_LIVE/ngrp:myStream_all/chunklist.m3u8",
 "img":"https://static.newsstate.com/static/images/logo.jpg" 
 }
 ,
  
 {
 "title":"न्यूज़_News State Madhya Pradesh",
-"url":"https://hls3.newsnation.in/NS2_HTTP_LIVE/ngrp:mystream3_all/chunklist.m3u8",
+"url":"https://hls3.newsnation.in/NS2_http_LIVE/ngrp:mystream3_all/chunklist.m3u8",
 "img":"https://js.newsx.com/wp-content/themes/newsxlite/images/india-news-logo.png" 
 }
 ,
@@ -378,7 +378,7 @@
  
 {
 "title":"धर्म_ Sankara",
-"urlhttp://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/tracks-v1a1/index.m3u8",
+"url":"http://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/tracks-v1a1/index.m3u8",
 "img":"https://akamaividz.zee5.com/resources/0-9-channel_1565694979/list/170x170/satsang386x386_1164840092.png" 
 }
 ,
